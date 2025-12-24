@@ -6,6 +6,7 @@ Each project focuses on building responsive mobile user interfaces and strengthe
 ---
 
 Technologies Used
+
 Flutter
 Dart
 Android SDK
@@ -14,6 +15,7 @@ Material Design
 ---
 
 Features
+
 Responsive user interface for different screen sizes
 Clean and user-friendly UI design
 Implementation of Flutter widgets and basic state management
